@@ -39,4 +39,4 @@ missing module named 'org.python' - imported by pickle (optional), xml.sax (dela
 missing module named org - imported by copy (optional)
 missing module named posix - imported by os (conditional, optional), shutil (conditional), importlib._bootstrap_external (conditional)
 missing module named resource - imported by posix (top-level)
-missing module named pyimod03_importers - imported by C:\Users\3normousz\PycharmProjects\pythonCalculator\venv\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth_pkgutil.py (top-level)
+missing module named pyimod03_importers - imported by C:\Users\3normousz\PycharmProjects\pythonEECSWorkShop\venv\Lib\site-packages\PyInstaller\hooks\rthooks\pyi_rth_pkgutil.py (top-level)

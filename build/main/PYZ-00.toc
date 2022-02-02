@@ -1,4 +1,4 @@
-('C:\\Users\\3normousz\\PycharmProjects\\pythonCalculator\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\3normousz\\Documents\\GitHub\\pythonCalculator\\build\\main\\PYZ-00.pyz',
  [('os',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\\lib\\os.py',
@@ -851,6 +851,10 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\\lib\\stat.py',
    'PYMODULE'),
+  ('stringprep',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
+   'PYMODULE'),
   ('_py_abc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\\lib\\_py_abc.py',
@@ -858,10 +862,6 @@
   ('tracemalloc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\\lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('stringprep',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
    'PYMODULE'),
   ('tkinter',
    'C:\\Program '

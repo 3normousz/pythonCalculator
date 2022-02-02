@@ -65,7 +65,7 @@ class Calculator:
     def create_history_frame(self):
         if self.x == 0:
             self.historyWindow = tk.Tk()
-            self.historyWindow.geometry("+%d+%d" % (self.window.winfo_rootx() + 368, self.window.winfo_rooty() - 31))
+            self.historyWindow.geometry("+%d+%d" % (self.window.winfo_rootx() + 373, self.window.winfo_rooty() - 26))
             self.historyWindow.geometry("275x467")
             self.historyWindow.resizable(0, 0)
             self.historyWindow.title("calculatorHistory")
